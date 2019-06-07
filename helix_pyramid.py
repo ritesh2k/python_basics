@@ -24,4 +24,4 @@ def pyramid(n):
 
 steps=int(input('Enter the number of steps\n'))
 rev_pyramid(steps)
-rev_pyramid(steps)	
+pyramid(steps)	
