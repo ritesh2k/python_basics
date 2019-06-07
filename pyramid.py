@@ -7,7 +7,7 @@ def pyramid(steps):
 		k= k-1
 		for j in range (i+1):
 			print ('#', end=' ')
-		print()
+		print()                                     #print a new line after outer loop iteration
 
 steps= int(input('Enter the number of steps\n'))
 pyramid(steps)	
