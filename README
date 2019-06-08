@@ -1,2 +1,14 @@
 This repository contains all the basic programs written in python3
 This will help in revising basic logic
+List of completed programs:
+1)Palindrome(palindrome.py)
+2)Reverse Pyramid(rev_pyramid.py)
+3)String Reversal(str_reverse.py)
+4)Reverse of right angle triangle(rev_right_triangle.py)
+5)Printing a pyramid(pyramid.py)
+6)Printing a mirror of pyramid(helix_pyramid.py)
+7)Printing a right angle triangle(right_angle_pattern.py)
+8)Reversal of an integer(interger_reversal.py)
+9)FizzBuzz(fizz_buzz.py)
+10)Printing most frequent character in a string(max_char.py)
+11)Checking if two words are anagrams(anagram.py)
